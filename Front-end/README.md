@@ -49,15 +49,18 @@ The assets and media files used on the development of the website are hosted in 
 * ** Icons: **
  Icons used for the web design were downloaded/retreieved from [FontAwesome](https://fontawesome.com), which provides both download of multiple icons on their Open Source tier.
  In addition, the SVGs are available to download and modify according to the general style of the website.
+ Other options that would be used, if needed, are [Iconic](https://useiconic.com/open/) and  [Octicons](https://useiconic.com/open/).
+ 
  
 * ** Images: **
-_tbd_
+_wip_
  
 ### Software
 
 * [** Adobe XD CC **](https://www.adobe.com/products/xd.html)
+* [** **]
 
 
 ## Copyright
 
-*I do not own any of the images in this project. All the assets are property of their respective owners and should only be used for illustrative purposes.*
+All the assets and images are property of their respective owners. For code licenses, refer to the Repository license.
