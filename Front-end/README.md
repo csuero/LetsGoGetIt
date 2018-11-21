@@ -1,13 +1,17 @@
 # Let's Go Get It: *Front-end*
 
 ## Insight 
+
 For the fron-end part of the project, the idea was to create a website that would bring the best possible experience to the different users of the platform:
 ranging from customers and partners to staff members, the main focus is for each user to be able to quickly get information that is relevant to their needs. 
 May it be retrieving information about an order or placing a request (and seeing the request from the staff side.)
 
-As per client request, the web app was built taking inspirations from [Backpacks.com](http://backpacks.com).
+As per client request, the web app was built taking inspirations from [Backpacks.com](http://backpacks.com). 
+
+The design documentation, which can be found <a href="Design.md">here</a> talks a bit more about the overall design choices made for the web UI/UX.
 
 ## Libraries
+
 Besides the usual implementation of HTML5, CSS3, and JavaScript, some of the libraries that are used on the front-end part are:
 
 * [** Bootstrap **](https://getbootstrap.com)
