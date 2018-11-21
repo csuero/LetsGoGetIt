@@ -28,7 +28,16 @@ While keeping the information centered and the overall site not too cluttered.
 
 ### Live Prototype
 
-The most recent production version [can be found here!](https://xd.adobe.com/view/4a57036d-2440-4832-6629-43121fe0dcec-3c66/?fullscreen)
+This prototype was built using Adobe XD as the main application, due to both simple yet powerful interface, in addition to having the ability to create integrate transitions into designs to create an almost 'usable' version.
+
+To make our design much easier, some existing wireframes were used:
+
+ * [Adobe XD Dashboard](https://www.behance.net/gallery/60714355/FREE-Dashboard-UI-Kit-for-Adobe-XD)
+ 
+ * [Wires: Adobe XD Kit](https://www.behance.net/gallery/55462459/Wires-wireframe-kits-for-Adobe-XD)
+ 
+Elements of these wirekits were picked to create the best fit between readability, usability, and realistic implementation in the future.
+As a picture is worth a thousand words, a [live protype can be found here!](https://xd.adobe.com/view/4a57036d-2440-4832-6629-43121fe0dcec-3c66/?fullscreen) 
 
         Link: https://xd.adobe.com/view/4a57036d-2440-4832-6629-43121fe0dcec-3c66/?fullscreen
 
