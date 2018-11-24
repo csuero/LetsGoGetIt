@@ -1,6 +1,6 @@
 # Design
 
-Instead of going for a write first, test second approach, it was determined that creating a prototype instead of live coding would be more efficient on the long run,
+Instead of going for a Write-First, Test-Second approach, it was determined that creating a prototype instead of live coding would be more efficient on the long run,
 as changes can be easily made to a design. Plus, it was much easier to coordinate and to make sure that the requirements are met
 
 
@@ -15,8 +15,8 @@ The general outline is to make the website's users aware that they can request t
 
 
 ## Shared Pages
-Some of the pages on the app are shared accross all users, as they don't contain information that is tied to a user's account. 
-However, these pages could display information to the user in the form of alert or popups.
+Some of the pages on the app are shared across all users, as they don't contain information that is tied to a user's account. 
+However, these pages could display information to the user in the form of alert or pop-ups.
 
 
 ### Landing Page
